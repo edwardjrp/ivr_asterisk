@@ -1,4 +1,4 @@
-# IVR App based on Adhearsion Cool Opensource VoIP Framework
+# Ruby IVR App based on Awesome Adhearsion Opensource VoIP Framework
 
 Creates an IVR based on Asterisk and Adhearsion gem, you'll need to configure your VoIP platform as simple as:
 
